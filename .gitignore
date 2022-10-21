@@ -1,0 +1,7 @@
+venv/
+workspace.code-workspace
+__pycache__/
+site/dist/
+site/node_modules/
+site/package-lock.json
+*.db
